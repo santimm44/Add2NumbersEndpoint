@@ -17,6 +17,7 @@ Things to submit:
 
 WILL NOT BE HOSTED ON VERCEL
 
-## Reviewed By
+## Reviewed By Gianpaolo Reinares
 
 ### Comments
+> Code looks good, everything functions accordingly after testing several number combinations
